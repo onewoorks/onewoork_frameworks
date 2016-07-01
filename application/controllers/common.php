@@ -3,5 +3,3 @@
 class Common_Controller {
     
 }
-
-?>
